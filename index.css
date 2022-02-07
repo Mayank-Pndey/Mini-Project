@@ -1,0 +1,24 @@
+body{
+    padding: 1%;
+    background:linear-gradient(45deg ,#e66465, #9198e5);
+    height: 100vh;
+    text-align: center;
+    color: #3c3f5c;
+}
+input{
+    width: 10%;
+    background-color: #e9dbdb;
+    border:none;
+    border-radius: 5px;
+    padding: 2px;
+    margin: 0 3px;
+}
+f
+input.calculate{
+   width: 15%;    
+   background-color:rgb(155, 155, 158) ;
+   border:none;
+   color: #fff;
+   padding: 5px 10px;
+   border-radius: 5px;
+} 
